@@ -1,1 +1,5 @@
 # jest-str-calculator
+
+STR. CALCULATOR - JEST : TDD
+© Noureddine Elouafi 2022
+CODE KATA - FRAMEWORK DE TESTS UNITAIRES EN JAVASCRIP
